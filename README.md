@@ -15,7 +15,7 @@ python2.7
 
 
 
-Open pokego.py
+Open pokego.py with python IDLE and press F5
 
 Press 1:
 
