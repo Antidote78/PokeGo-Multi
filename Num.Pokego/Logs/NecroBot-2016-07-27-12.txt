@@ -1,0 +1,8 @@
+Initializing Rocket logger at time 27/07/2016 12:44:47...
+[12:44:53] AutoUpdater is disabled. Get the latest release from: https://github.com/NecronomiconCoding/NecroBot/releases
+ 
+[12:44:56] Make sure Lat & Lng are right. Exit Program if not! Lat: 52,379189 Lng: 4,899431
+Initializing Rocket logger at time 27/07/2016 12:56:45...
+[12:56:51] AutoUpdater is disabled. Get the latest release from: https://github.com/NecronomiconCoding/NecroBot/releases
+ 
+[12:56:54] Make sure Lat & Lng are right. Exit Program if not! Lat: 48,85524 Lng: 2,347513
