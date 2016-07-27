@@ -4,7 +4,6 @@ import psutil
 import win32process
 import win32gui
 
-DETACHED_PROCESS = 0x08000000
 liste_pid = []
 def winEnumHandler( hwnd, ctx ):
     if win32gui.IsWindowVisible( hwnd ):
